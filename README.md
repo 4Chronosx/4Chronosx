@@ -50,8 +50,7 @@
 |---|---|---|
 | 🌧️ **[drAIn](https://github.com/kiloumanjaro/drAIn)** | Urban flood simulation + ML analytics — *PJDSC Champion* | Next.js · Python · GIS |
 | ✈️ **[NextStop](https://github.com/4Chronosx/NextStop)** | AI travel planner with itinerary chatbot | React · OpenAI API |
-| 🌾 **[FarmToTable](https://github.com/4Chronosx/FarmToYou)** | Farmer-to-consumer marketplace | Flutter · Supabase |
-| 🌐 **Geopoint** | IP geolocation app with maps, auth & CRUD | React · Node.js · Express |
+| 🌐 **[Geopoint](https://github.com/4Chronosx/Geopoint)** | IP geolocation app with maps, auth & CRUD | React · Node.js · Express |
 
 ---
 
